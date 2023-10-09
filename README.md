@@ -63,9 +63,9 @@ Put some effort into styling your content and make your content look well-struct
 * text formatting properties: font-family, font-weight, font-size, text-decoration, color
 
 ### Step 4: Format, add comments, and check for errors
-* Use the Prettier VSCode extension to format HTMl and CSS code.
+* Use the Prettier VSCode extension to format HTML and CSS code.
 * Add a few comments to explain your HTML and CSS code and highlight anything of interest.
-* Use the VSCode HTMLHint extension and validate your HTML code to make sure that it is correct: https://validator.w3.org/#validate_by_upload. Take a screenshot of the results.
+* Validate each HTML page to make sure that it is correct: https://validator.w3.org/#validate_by_upload. Take screenshots of the results.
 * Validate your CSS code to make sure that it is correct: https://jigsaw.w3.org/css-validator/ for CSS. Take a screenshot of the results.
 
 **You have now completed your exercise but you still need to push your edits to GitHub and submit it in Brightspace. Make sure to follow the instructions in the How to Complete Your Exercises Guide.**
