@@ -50,10 +50,9 @@ Remember to:
 * Make regular commits and label them appropriately to document your progress.
 
 As you code, make the most of the tools available to you:
-1. Highlight any errors: Use the HTMLHint extension in VS Code to highlight issues and help you troubleshoot your code. Note: If the debugger is not working then you may be in restricted mode and need to turn on Workspace Trust. Click on the Manage Gear button at the bottom of the screen on the left-hand side, then select Manage Workspace Trust to switch between Trusted and Restricted modes.
-2. Use the Prettier extension to help you format your code, it is a fast way to make your code easier to read and highlight nesting hierarchy issues.
+1. Highlight any errors. Note: If the debugger is not working then you may be in restricted mode and need to turn on Workspace Trust. Click on the Manage Gear button at the bottom of the screen on the left-hand side, then select Manage Workspace Trust to switch between Trusted and Restricted modes.
+2. Use the Prettier extension to help you format your code.
 3. Use the Chrome Developer Tools: Open index.html in Chrome, right-click > Inspect.
-Click on the Elements tab, one by one, click on the arrows to open up the parent elements and drill down the descendant elements. This helps you see how the browser has interpreted the nesting of your elements.
 
 ### Step 3: Style your website
 Put some effort into styling your content and make your content look well-structured and easy to read. All your CSS must be in one external stylesheet, it must be organized into sections using comments, and it must be efficient. Use element type selectors as much as possible. At the very least, you must include the following:
