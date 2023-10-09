@@ -62,7 +62,7 @@ Put some effort into styling your content and make your content look well-struct
 * box model properties: padding, margin, border, background, border-radius, box-shadow, width
 * text formatting properties: font-family, font-weight, font-size, text-decoration, color
 
-### Step 4: Format and add comments, and check for errors
+### Step 4: Format, add comments, and check for errors
 * Use the Prettier VSCode extension to format HTMl and CSS code.
 * Add a few comments to explain your HTML and CSS code and highlight anything of interest.
 * Use the VSCode HTMLHint extension and validate your HTML code to make sure that it is correct: https://validator.w3.org/#validate_by_upload. Take a screenshot of the results.
