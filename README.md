@@ -1,7 +1,7 @@
 # Exercise 6: Coding Best Practices
 
 ## Objectives
-This exercise is designed to help you put into practice many of the skills you have learned so far in this course and to learn how to analyze, think critically and fix poor coding. You must build and style a simple 3-page website that documents the performance of a website of your choice.
+This exercise is designed to strengthen your ability to analyze, think critically, and resolve coding issues. You will perform a website performance test, research the results, and write an analysis. Then, you’ll build and style a simple 3-page website to showcase your findings. The exercise focuses equally on the quality of your content and the standard of your coding.
 
 *See examples of what your finished pages could look like in the repo's "examples" folder.*
 
