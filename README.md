@@ -38,7 +38,7 @@ Create a 3-page website from scratch, no HTML code has been provided. Make sure 
 2. Link to the website URL
 3. Brief explanation of the what the website is and why you chose it
 4. A screenshot of the homepage of the website that opens the full-size image of the homepage in a new browser tab when the user clicks on it
-5. Summary of the test results with links that take the visitor to each individual page
+5. Summary of the test results with navigation links that take the visitor to the Accessibility and Lighthouse Report pages.
 6. Footer
 
 **Page 2: Accessibility:**
